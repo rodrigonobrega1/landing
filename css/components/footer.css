@@ -1,0 +1,39 @@
+.footer {
+    text-align: center;
+    padding: 60px;
+    background-color: #1d1c2f;
+}
+
+.list-inline {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+}
+
+.list-inline li {
+    display: inline-block;
+}
+
+.social-icon {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.social-icon:hover {
+    color: rgb(134, 134, 134);
+}
+
+ul {
+    color: rgb(255, 255, 255);
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 40px;
+    }
+
+.footer-p {
+color: white;
+}

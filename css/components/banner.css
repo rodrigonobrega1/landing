@@ -1,0 +1,29 @@
+.banner-img {
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .banner-text-title {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 15px black;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+  }
+
+  .banner-text-h3 {
+    text-align: center;
+    color: rgb(202, 202, 202);
+    text-shadow: 0 0 5px black;
+    position: absolute;
+    top: 36%;
+    left: 20%;
+  }
+
+  .banner-text-how {
+    text-align: center;
+  }
+
+
